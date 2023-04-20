@@ -1,2 +1,2 @@
-# Project-Sprint1
-First Sprint of Project
+# BAIS-HW6
+My personal webpage repository

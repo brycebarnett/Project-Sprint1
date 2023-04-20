@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My School Background</title>
+    <link rel="stylesheet" href="./stylesheet.css">
+</head>
+<body>
+   <p>I have had some valuable professional experience in my time in school. These roles have been in a variety of industries, roles and companies. In the past, I have worked in graphic design, retail sales, autonomous sales, etc. These roles have provided me with a wide perspective of the business world and all it entails. I am greatful for these past expereinces, and the preparation that it provided me in my career devlopment.</p>
+   
+   <h4>Programming Languages I Know:</h4>
+   <ul>
+    <li>Python</li>
+    <li>SQL</li>
+    <li>R</li>
+    <li>HTML</li>
+   </ul>
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>brycebarnett.me</title>
+    
+</head>
+<body>
+   <header>
+
+    Welcome to Bryce's personal portfolio located at BryceBarnett.me!
+
+   </header>
+<p>  Coding Languages I know:</p>
+   <ul>
+    <li>Python</li>
+    <li>SQL</li>
+    <li>R</li>
+    <li>HTML</li>
+   </ul>
+   <nav>
+    <a href=",/resume.html"> Resume </a>
+
+   </nav>
+   <main>
+    <h1> Bryce Barnett</h1>
+   </main>
+</body>
+</html>
