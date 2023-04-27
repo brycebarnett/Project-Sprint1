@@ -1,60 +1,26 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Bryce J. Barnett portfolio</title>
+    <title>Cookie Policy</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-      /* Style for the cookie popup */
-      .cookie-popup {
-        position: fixed;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        padding: 20px;
-        background-color: #fff;
-        box-shadow: 0 -1px 10px rgba(0, 0, 0, 0.2);
-        z-index: 9999;
-        text-align: center;
-      }
-      
-      /* Style for the button to accept the cookie policy */
-      .cookie-popup button {
-        background-color: #007bff;
-        color: #fff;
-        border: none;
-        padding: 10px 20px;
-        border-radius: 5px;
-        cursor: pointer;
-      }
-    </style>
   </head>
   <body>
-    <!-- The cookie popup -->
-    <div class="cookie-popup">
-      <p>We use cookies to ensure you get the best experience on our website. By clicking "Accept", you consent to the use of all cookies.</p>
-      <button onclick="acceptCookies()">Accept</button>
-      <p><a href="/cookie-policy">Cookie Policy</a></p>
-    </div>
-    
-    <!-- Your website content goes here -->
-    <h1>Welcome to My Website!</h1>
-    
-    <script>
-      // Function to accept the cookie policy
-      function acceptCookies() {
-        // Set a cookie that the user has accepted the policy
-        document.cookie = "acceptedCookies=true; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/";
-        
-        // Hide the cookie popup
-        document.querySelector('.cookie-popup').style.display = 'none';
-      }
-      
-      // Check if the user has already accepted the cookie policy
-      if (document.cookie.indexOf('acceptedCookies=') > -1) {
-        // Hide the cookie popup if the user has already accepted the policy
-        document.querySelector('.cookie-popup').style.display = 'none';
-      }
-    </script>
+    <h1>Cookie Policy</h1>
+    <p>Our website uses cookies to improve your browsing experience. This policy explains what cookies are, how we use them, and how you can manage them.</p>
+    <h2>What are cookies?</h2>
+    <p>Cookies are small text files that are placed on your device when you visit our website. They allow us to remember your preferences and personalize your experience.</p>
+    <h2>How we use cookies</h2>
+    <p>We use cookies to:</p>
+    <ul>
+      <li>Remember your preferences, such as language and location</li>
+      <li>Personalize your experience by showing you content and advertisements that are relevant to you</li>
+      <li>Track your usage of our website to improve our services</li>
+      <li>Provide social media features, such as sharing buttons</li>
+    </ul>
+    <h2>Managing cookies</h2>
+    <p>You can control and manage cookies in various ways. Please consult the help documentation for your specific browser to learn how to block or delete cookies. Note that blocking or deleting cookies may affect your ability to use some features of our website.</p>
+    <h2>Changes to this policy</h2>
+    <p>We may update this policy from time to time to reflect changes in our use of cookies. We encourage you to review this policy periodically for any updates or changes.</p>
   </body>
 </html>
