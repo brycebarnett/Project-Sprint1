@@ -1,5 +1,5 @@
 # DPM Final Portfolio 🤑
-![Job Done✅]([https://as1.ftcdn.net/v2/jpg/01/63/74/20/1000_F_163742074_xXiKIiQ75jdQDULESQql7Y1f5uS0XIMK.jpg))
+![Job Done✅]([https://as1.ftcdn.net/v2/jpg/01/63/74/20/1000_F_163742074_xXiKIiQ75jdQDULESQql7Y1f5uS0XIMK.jpg])
 
 My personal webpage repository:
 During the course of the project, I learned many valuable skills that I can transfer to the next stage of my career. Below, I have listed out some of these tools and techniques:
