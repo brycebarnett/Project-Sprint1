@@ -1,5 +1,7 @@
 # DPM Final Portfolio 🤑
-![Job Done✅]([https://as1.ftcdn.net/v2/jpg/01/63/74/20/1000_F_163742074_xXiKIiQ75jdQDULESQql7Y1f5uS0XIMK.jpg])
+![Azure badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+https://brycebarnett.me/
 
 My personal webpage repository:
 During the course of the project, I learned many valuable skills that I can transfer to the next stage of my career. Below, I have listed out some of these tools and techniques:
@@ -9,3 +11,12 @@ During the course of the project, I learned many valuable skills that I can tran
 4. Uploaded the project using Miscrosoft Azure to place it on the web.
 5. Learned GitHub and GitHub desktop techniques for web projects. 
 
+
+
+
+
+
+
+
+
+ 
