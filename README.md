@@ -5,7 +5,8 @@
 
 ## LESSONS
 ### My personal webpage repository:
-During the course of the project, I learned many valuable skills that I can transfer to the next stage of my career. Below, I have listed out some of these tools and techniques:
+During the course of the project, I learned many valuable skills that I can transfer to the next stage of my career. I created this project to display these skills. People can visit the link to see more about my background and accomplishments. Below, I have listed out some of these tools and techniques:
+
 1. Scrum Framework - Allowed me to organize tasks into achieveable sprints 
 2. HTML - Created the entire page and project from the HTML coding framework.
 3. Used CSS to format page in an appealing manner for the viewer.
