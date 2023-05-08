@@ -3,6 +3,7 @@
 
 ## https://brycebarnett.me/
 
+## LESSONS
 ### My personal webpage repository:
 During the course of the project, I learned many valuable skills that I can transfer to the next stage of my career. Below, I have listed out some of these tools and techniques:
 1. Scrum Framework - Allowed me to organize tasks into achieveable sprints 
@@ -11,6 +12,10 @@ During the course of the project, I learned many valuable skills that I can tran
 4. Uploaded the project using Miscrosoft Azure to place it on the web.
 5. Learned GitHub and GitHub desktop techniques for web projects. 
 
+## INSTALLATION
+1. Install VisualStudioCode or another text editor
+2. Create a Microsoft Azure account for deployment.
+3. Create a namecheap account and purchase a custom domain (Ex: brycebarnett.me)
 
 
 
