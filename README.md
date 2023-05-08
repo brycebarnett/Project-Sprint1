@@ -10,16 +10,31 @@
 During the course of the project, I learned many valuable skills that I can transfer to the next stage of my career. I created this project to display these skills. People can visit the link to see more about my background and accomplishments. Below, I have listed out some of these tools and techniques:
 
 1. Scrum Framework - Allowed me to organize tasks into achieveable sprints 
-2. HTML - Created the entire page and project from the HTML coding framework.
-3. Used CSS to format page in an appealing manner for the viewer.
-4. Uploaded the project using Miscrosoft Azure to place it on the web.
-5. Learned GitHub and GitHub desktop techniques for web projects. 
+
+2. HTML - Created the entire page and project from the HTML coding framework
+
+3. Used CSS to format page in an appealing manner for the viewer
+
+4. Uploaded the project using Miscrosoft Azure to place it on the web
+
+5. Learned GitHub and GitHub desktop techniques for web projects
 
 ## INSTALLATION 👷‍♂️
 1. Install VisualStudioCode or another text editor
-2. Create a Microsoft Azure account for deployment.
+
+2. Create a Microsoft Azure account for deployment
+
 3. Create a namecheap account and purchase a custom domain (Ex: brycebarnett.me)
 
+4. Download all files excluding the IMG_8316, IMG_8594, IMG_8725 to your computer
+
+5. Open the downloaded files in a text editor
+
+6. Begin customizing your own webpage to your specific content
+
+7. Once complete, go to Microsoft Azure to begin deploying a static web application
+
+8. After deployment, you should configure you custom NameCheap domain to replace the one created by Azure
 
 
 
